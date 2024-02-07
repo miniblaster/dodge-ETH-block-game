@@ -2,12 +2,6 @@
 
 Welcome to Dodge the Bomb, a simple and addictive JavaScript game! Test your reflexes and see how long you can survive. Dodge falling bombs, stay alive, and aim for the high score!
 
-## Play the Game
-
-You can play the game right now by visiting the following link: [Play Dodge the Bomb](https://suyogkad.github.io/Dodge-the-Bomb---JS/)
-
-![Game Screenshot](./images/Screenshot.png)
-
 ## How to Play
 
 1. **Objective:** Dodge the falling bombs and survive as long as possible.
