@@ -1,13 +1,1 @@
-# Dodge the Bomb - JavaScript Game
-
-Welcome to Dodge the Bomb, a simple and addictive JavaScript game! Test your reflexes and see how long you can survive. Dodge falling bombs, stay alive, and aim for the high score!
-
-## How to Play
-
-1. **Objective:** Dodge the falling bombs and survive as long as possible.
-
-2. **Controls:** Use the left, right, up, down arrow keys to move your player left and right.
-
-3. **Health:** You start with 3 lives. If a bomb hits you, you lose 1 life. If you lose all 3 lives, the game is over.
-
-4. **Scoring:** The game speed increases as you survive longer. Challenge yourself to beat your high score!
+# Dodge the Ethereum Transaction Block - JavaScript Game
